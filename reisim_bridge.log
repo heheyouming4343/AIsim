@@ -1,0 +1,55 @@
+2025-04-04 22:41:47,739 - reisim_bridge - INFO - ReisimBridge initialized on 127.0.0.1:10000
+2025-04-04 22:41:47,740 - reisim_bridge - INFO - Bridge loop started
+2025-04-04 22:41:47,740 - reisim_bridge - INFO - Bridge thread started
+2025-04-04 22:41:48,766 - reisim_bridge - INFO - Bridge loop stopped
+2025-04-04 22:41:48,766 - reisim_bridge - INFO - Bridge thread stopped
+2025-04-04 22:41:48,767 - reisim_bridge - WARNING - Bridge is not running
+2025-04-04 22:41:48,767 - reisim_bridge - INFO - Bridge closed
+2025-04-04 22:41:48,768 - reisim_bridge - INFO - Bridge stopped
+2025-04-04 22:42:44,945 - reisim_bridge - INFO - ReisimBridge initialized on 127.0.0.1:10000
+2025-04-04 22:42:44,948 - reisim_bridge - INFO - Bridge loop started
+2025-04-04 22:42:44,949 - reisim_bridge - INFO - Bridge thread started
+2025-04-04 22:42:49,044 - reisim_bridge - INFO - Bridge loop stopped
+2025-04-04 22:42:49,044 - reisim_bridge - INFO - Bridge thread stopped
+2025-04-04 22:42:49,045 - reisim_bridge - WARNING - Bridge is not running
+2025-04-04 22:42:49,045 - reisim_bridge - INFO - Bridge closed
+2025-04-04 22:42:49,046 - reisim_bridge - INFO - Bridge stopped
+2025-04-04 22:43:02,141 - reisim_bridge - INFO - ReisimBridge initialized on 127.0.0.1:10000
+2025-04-04 22:43:02,142 - reisim_bridge - INFO - Bridge loop started
+2025-04-04 22:43:02,142 - reisim_bridge - INFO - Bridge thread started
+2025-04-04 22:43:06,228 - reisim_bridge - INFO - Bridge loop stopped
+2025-04-04 22:43:06,228 - reisim_bridge - INFO - Bridge thread stopped
+2025-04-04 22:43:06,229 - reisim_bridge - WARNING - Bridge is not running
+2025-04-04 22:43:06,230 - reisim_bridge - INFO - Bridge closed
+2025-04-04 22:43:06,230 - reisim_bridge - INFO - Bridge stopped
+2025-04-04 22:43:48,572 - reisim_bridge - INFO - ReisimBridge initialized on 127.0.0.1:10000
+2025-04-04 22:43:48,573 - reisim_bridge - INFO - Bridge loop started
+2025-04-04 22:43:48,573 - reisim_bridge - INFO - Bridge thread started
+2025-04-04 22:43:51,627 - reisim_bridge - INFO - Bridge loop stopped
+2025-04-04 22:43:51,628 - reisim_bridge - INFO - Bridge thread stopped
+2025-04-04 22:43:51,629 - reisim_bridge - WARNING - Bridge is not running
+2025-04-04 22:43:51,629 - reisim_bridge - INFO - Bridge closed
+2025-04-04 22:43:51,629 - reisim_bridge - INFO - Bridge stopped
+2025-04-04 22:46:55,821 - reisim_bridge - INFO - ReisimBridge initialized on 127.0.0.1:10000
+2025-04-04 22:46:55,822 - reisim_bridge - INFO - Bridge loop started
+2025-04-04 22:46:55,822 - reisim_bridge - INFO - Bridge thread started
+2025-04-04 22:46:59,673 - reisim_bridge - INFO - Bridge loop stopped
+2025-04-04 22:46:59,673 - reisim_bridge - INFO - Bridge thread stopped
+2025-04-04 22:46:59,674 - reisim_bridge - INFO - Bridge closed
+2025-04-04 22:46:59,674 - reisim_bridge - INFO - Bridge stopped
+2025-04-04 22:50:14,748 - reisim_bridge - INFO - ReisimBridge initialized on 127.0.0.1:10000
+2025-04-04 22:50:14,749 - reisim_bridge - INFO - Bridge loop started
+2025-04-04 22:50:14,749 - reisim_bridge - INFO - Bridge thread started
+2025-04-04 22:50:17,288 - reisim_bridge - INFO - Reset command sent for agent 1
+2025-04-04 22:50:17,352 - reisim_bridge - INFO - Bridge loop stopped
+2025-04-04 22:50:17,352 - reisim_bridge - INFO - Bridge thread stopped
+2025-04-04 22:50:17,353 - reisim_bridge - INFO - Bridge closed
+2025-04-04 22:50:17,353 - reisim_bridge - INFO - Bridge stopped
+2025-04-04 22:51:31,079 - reisim_bridge - INFO - ReisimBridge initialized on 127.0.0.1:10000
+2025-04-04 22:51:31,080 - reisim_bridge - INFO - Bridge loop started
+2025-04-04 22:51:31,080 - reisim_bridge - INFO - Bridge thread started
+2025-04-04 22:51:34,634 - reisim_bridge - INFO - Reset command sent for agent 1
+2025-04-04 22:51:34,657 - reisim_bridge - INFO - Reset command for agent 1
+2025-04-04 23:23:34,664 - reisim_bridge - WARNING - Bridge is not running
+2025-04-04 23:23:47,044 - reisim_bridge - WARNING - Bridge is not running
+2025-04-05 01:01:15,802 - reisim_bridge - WARNING - Bridge is not running

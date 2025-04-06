@@ -1,0 +1,48 @@
+cmake_minimum_required(VERSION 3.16)
+
+project(Reisim)
+
+# 设置C++标准
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
+
+# Qt自动生成设置
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_AUTORCC ON)
+
+# 设置输出目录
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+
+# 指定Qt安装路径
+set(CMAKE_PREFIX_PATH "C:/Qt/5.15.2/mingw81_64/lib/cmake")
+
+# 查找Qt模块
+find_package(Qt5 REQUIRED COMPONENTS 
+    Core 
+    Gui 
+    Widgets 
+    Network
+    OpenGL
+)
+
+# 包含源文件
+file(GLOB_RECURSE SOURCES 
+    "src/*.cpp"
+    "src/*.h"
+    "src/*.ui"
+    "src/*.qrc"
+)
+
+# 创建可执行文件
+add_executable(Reisim ${SOURCES})
+
+# 链接Qt库
+target_link_libraries(Reisim 
+    Qt5::Core 
+    Qt5::Gui 
+    Qt5::Widgets
+    Qt5::Network
+    Qt5::OpenGL
+) 
